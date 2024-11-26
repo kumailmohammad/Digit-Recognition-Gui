@@ -24,4 +24,5 @@ Tech Stack
 Python
 Tkinter: For building the GUI application.
 TensorFlow/Keras: For training the neural network model.
-NumPy: For data preprocessing and noise addition
+NumPy: For data preprocessing and noise addition.
+CustomTKinter : for making it easy to build GUI.
